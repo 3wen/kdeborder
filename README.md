@@ -10,7 +10,7 @@ The method is described in our article: Charpentier, A. & Gallic, E. (2015). Ker
 To install the package in R, from Github:
 ```R
 # install.packages("devtools")
-devtools::install_github("ripleyCorr/kdeborder")
+devtools::install_github("3wen/kdeborder")
 ```
 
 Some examples are given:
