@@ -1,0 +1,12 @@
+Package: kdeborder
+Title: Kernel density estimation correcting for border bias
+Version: 0.2.0
+Author: Arthur Charpentier and Ewen Gallic
+Maintainer: Ewen Gallic <ewen.gallic@gmail.com>
+Description: This package proposes some R codes to compute the kernel density estimates of two-dimensional data points, 
+    using an extension of Ripley's circumference method to correct for border bias.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: dplyr, ggplot2, sf, ks, parallel, pbapply, reshape2, grDevices
+RoxygenNote: 7.1.2
